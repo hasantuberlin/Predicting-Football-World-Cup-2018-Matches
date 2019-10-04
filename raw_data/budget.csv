@@ -1,0 +1,235 @@
+Rank, Country, Revenues
+1,United States,6,028,001
+2,China,3,312,308
+3,Germany,2,200,000
+4,Japan,1,678,000
+5,France,1,334,000
+6,United Kingdom,1,077,300
+7,Italy,884,500
+8,Canada,623,700
+9,Brazil,618,853
+10,India,544,422
+11,Spain,492,400
+12,Australia,461,000
+13,Korea, South,351,600
+14,Netherlands,344,800
+15,Saudi Arabia,260,000
+16,Russia,253,900
+17,Sweden,274,800
+18,Belgium,249,700
+19,Mexico,292,800
+20,Switzerland,223,500
+21,Norway,214,300
+22,Austria,197,800
+23,Turkey,173,900
+24,Denmark,173,500
+25,Finland,136,800
+26,Indonesia,130,600
+27,Argentina,123,300
+28,Greece,95,360
+29,Taiwan,93,000
+30,Portugal,92,990
+31,Israel,92,820
+32,South Africa,92,380
+33,Poland,90,800
+34,Ireland,85,410
+35,Colombia,85,140
+36,Czech Republic,83,620
+37,United Arab Emirates,83,440
+38,Thailand,79,600
+39,Venezuela,77,890
+40,Iran,77,220
+41,New Zealand,73,200
+42,Hong Kong,66,190
+43,Iraq,63,970
+44,Hungary,63,630
+45,Peru,59,660
+46,Romania,58,500
+47,Chile,56,730
+48,Singapore,53,400
+49,Kuwait,52,870
+50,Cuba,52,360
+51,Algeria,52,080
+52,Malaysia,51,230
+53,Vietnam,54,590
+54,Pakistan,45,640
+55,Philippines,44,740
+56,Qatar,41,470
+57,Slovakia,37,090
+58,Ukraine,35,600
+59,Angola,35,590
+60,Egypt,35,540
+61,Kazakhstan,34,130
+62,Ecuador,32,300
+63,Luxembourg,27,600
+64,Bangladesh,27,080
+65,Morocco,26,630
+66,Croatia,25,790
+67,Belarus,22,800
+68,Oman,22,680
+69,Uzbekistan,20,110
+70,Slovenia,20,200
+71,Bulgaria,19,530
+72,Uruguay,17,690
+73,Libya,16,330
+74,Serbia,16,250
+75,Lithuania,16,180
+76,Kenya,15,370
+77,Bolivia,15,010
+78,Macau,14,240
+79,Nigeria,13,970
+80,Sri Lanka,12,640
+81,Panama,12,600
+82,Ethiopia,12,110
+83,Dominican Republic,11,180
+84,Lebanon,10,900
+85,Latvia,10,130
+86,Azerbaijan,9,852
+87,Iceland,9,962
+88,Estonia,9,772
+89,Tunisia,9,397
+90,Puerto Rico,9,268
+91,Ghana,9,236
+92,Burma,9,211
+93,Jordan,9,157
+94,Guatemala,8,335
+95,Costa Rica,8,262
+96,Sudan,8,198
+97,Tanzania,7,872
+98,Bosnia and Herzegovina,7,798
+99,Cyprus,7,677
+100,Cote d'Ivoire,7,121
+101,Trinidad and Tobago,6,916
+102,Nepal,5,954
+103,El Salvador,5,756
+104,Botswana,5,609
+105,Bahrain,5,463
+106,Paraguay,5,366
+107,Cameroon,5,154
+108,Zambia,4,895
+109,Honduras,4,376
+110,Turkmenistan,4,436
+111,Malta,4,295
+112,Cambodia,4,268
+113,Georgia,4,260
+114,Jamaica,4,207
+115,Uganda,4,019
+116,Namibia,3,967
+117,Senegal,3,863
+118,Nicaragua,3,800
+119,Papua New Guinea,3,649
+120,Zimbabwe,3,600
+121,Albania,3,486
+122,Yemen,3,467
+123,Macedonia,3,314
+124,Congo, Democratic Republic of the,3,238
+125,Korea, North,3,200
+126,Laos,3,144
+127,Equatorial Guinea,3,186
+128,Gabon,3,122
+129,Mali,3,068
+130,Mauritius,2,912
+131,Moldova,2,796
+132,Mozambique,2,758
+133,Palestine,2,750
+134,Burkina Faso,2,635
+135,Mongolia,2,623
+136,Armenia,2,536
+137,Congo, Republic of the,2,516
+138,Tajikistan,2,214
+139,Kyrgyzstan,2,050
+140,Bahamas,2,100
+141,Eritrea,2,029
+142,Afghanistan,1,992
+143,French Polynesia,1,891
+144,Rwanda,1,874
+145,Andorra,1,872
+146,Niger,1,680
+147,Montenegro,1,620
+148,Haiti,1,580
+149,Greenland,1,578
+150,Guinea,1,559
+151,Togo,1,469
+152,Fiji,1,446
+153,Brunei,1,435
+154,Kosovo,1,396
+155,Benin,1,372
+156,Barbados,1,350
+157,Malawi,1,298
+158,Madagascar,1,292
+159,Mauritania,1,248
+160,US Virgin Islands,1,223
+161,Chad,1,178
+162,Swaziland,1,150
+163,Guam,1,147
+164,Lesotho,1,057
+165,Syria,1,033
+166,Faroe Islands,836
+167,New Caledonia,996
+168,Liechtenstein,995
+169,Isle of Man,965
+170,Bermuda,960
+171,Maldives,960
+172,Guyana,939
+173,Monaco,915
+174,Cayman Islands,870
+175,Jersey,829
+176,Djibouti,700
+177,Aruba,697
+178,Bhutan,693
+179,Sierra Leone,684
+180,San Marino,668
+181,Liberia,626
+182,Burundi,608
+183,Seychelles,572
+184,Guernsey,564
+185,Suriname,546
+186,Belize,500
+187,Gibraltar,476
+188,South Sudan,437
+189,Cabo Verde,437
+190,Solomon Islands,435
+191,Saint Lucia,402
+192,Saint Kitts and Nevis,370
+193,Vatican City,315
+194,Timor-Leste,300
+195,British Virgin Islands,300
+196,Antigua and Barbuda,296
+197,Grenada,269
+198,Northern Mariana Islands,246
+199,American Samoa,241
+200,Samoa,233
+201,Central African Republic,231
+202,Turks and Caicos Islands,226
+203,Guinea-Bissau,226
+204,Saint Vincent and the Grenadines,222
+205,Micronesia, Federated States of,214
+206,Vanuatu,204
+207,Kiribati,198
+208,Gambia,187
+209,Comoros,149
+210,Dominica,148
+211,Somalia,145
+212,Tonga,133
+213,Palau,124
+214,Marshall Islands,117
+215,Sao Tome and Principe,114
+216,Anguilla,95
+217,Cook Islands,87
+218,Saint Pierre and Miquelon,70
+219,Falkland Islands,67
+220,Nauru,58
+221,Tuvalu,43
+222,Montserrat,37
+223,Niue,15
+224,Saint Helena and Dependencies,9
+225,Norfolk Island,5
+226,Pitcairn Islands,1
+227,Tokelau,1
+
+228,Wallis and Futuna,
+-,Christmas Island,-
+-,Cocos (Keeling) Islands,-
+-,Svalbard,-
+-,Western Sahara,-
+,World,23,256,968

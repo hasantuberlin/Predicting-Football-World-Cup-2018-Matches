@@ -1,0 +1,49 @@
+,team_1,team_2,team_1_score,team_2_score,stage
+0,russia,saudi arabia,5,0,0
+1,egypt,uruguay,0,1,0
+2,morocco,iran,0,1,0
+3,portugal,spain,3,3,0
+4,france,australia,2,1,0
+5,argentina,iceland,1,1,0
+6,peru,denmark,0,1,0
+7,croatia,nigeria,2,0,0
+8,costa rica,serbia,0,1,0
+9,germany,mexico,0,1,0
+10,brazil,switzerland,1,1,0
+11,sweden,south korea,1,0,0
+12,belgium,panama,3,0,0
+13,tunisia,england,1,2,0
+14,columbia,japan,1,2,0
+15,poland,senegal,1,2,0
+16,russia,egypt,3,1,0
+17,portugal,morocco,1,0,0
+18,uruguay,saudi arabia,1,0,0
+19,iran,spain,0,1,0
+20,denmark,australia,1,1,0
+21,france,peru,1,0,0
+22,argentina,croatia,0,3,0
+23,brazil,costa rica,2,0,0
+24,nigeria,iceland,2,0,0
+25,serbia,switzerland,1,2,0
+26,belgium,tunisia,5,2,0
+27,south korea,mexico,1,2,0
+28,germany,sweden,2,1,0
+29,england,panama,6,1,0
+30,japan,senegal,2,2,0
+31,poland,columbia,0,3,0
+32,uruguay,russia,3,0,0
+33,saudi arabia,egypt,2,1,0
+34,iran,portugal,1,1,0
+35,spain,morocco,2,2,0
+36,denmark,france,0,0,0
+37,australia,peru,0,2,0
+38,nigeria,argentina,1,2,0
+39,iceland,croatia,1,2,0
+40,mexico,sweden,0,3,0
+41,south korea,germany,2,0,0
+42,serbia,brazil,0,2,0
+43,switzerland,costa rica,2,2,0
+44,japan,poland,0,1,0
+45,senegal,columbia,0,1,0
+46,panama,tunisia,1,2,0
+47,england,belgium,0,1,0
